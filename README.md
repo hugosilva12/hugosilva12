@@ -1,5 +1,5 @@
 
-# About Me 👀
+# **About Me** 👀
 Hello, my name is Hugo Silva and i live in Amarante, Porto, Portugal.
 
 <br>
