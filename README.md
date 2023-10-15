@@ -1,10 +1,10 @@
 
 # **About Me** 👀
-Hello, my name is Hugo Silva and i live in Amarante, Porto, Portugal.
+Hello, my name is Hugo Silva, and I am a software engineer. I obtained my bachelor's degree in Computer Engineering at ESTG - Escola Superior de Tecnologia e Gestão, Instituto Politécnico do Porto.
 
 <br>
 
-# Skills💻
+# Experience With 💻
 
 
 <p>
