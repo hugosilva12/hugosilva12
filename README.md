@@ -6,6 +6,13 @@ Hello, my name is Hugo Silva, and I am a software engineer. I obtained my bachel
 
 
 # Experience With 💻
+## Observability
+[![Observability](https://skillicons.dev/icons?i=grafana,openshift)](#)
+<br/>
+
+### Databases
+[![Programming Languages](https://skillicons.dev/icons?i=mongo,mysql,postgres)](#)
+<br/>
 
 ### Frontend
 [![Programming Languages](https://skillicons.dev/icons?i=react,vue,angular,ts)](#)
@@ -13,10 +20,6 @@ Hello, my name is Hugo Silva, and I am a software engineer. I obtained my bachel
 
 ### Backend
 [![Programming Languages](https://skillicons.dev/icons?i=nodejs,express,dotnet,spring,scala,python,rabbitmq)](#)
-<br/>
-
-### Databases
-[![Programming Languages](https://skillicons.dev/icons?i=mongo,mysql,postgres)](#)
 <br/>
 
 ### Software and Tools:
