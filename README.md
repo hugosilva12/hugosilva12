@@ -1,6 +1,6 @@
 
 # About me 👨‍🦱
-Hello, my name is Hugo Silva, and I am a software engineer. I obtained my bachelor's degree in Computer Engineering at ESTG - Escola Superior de Tecnologia e Gestão, Instituto Politécnico do Porto.
+### Hello, my name is Hugo Silva, and I am a software engineer. I obtained my bachelor's degree in Computer Engineering at ESTG - Escola Superior de Tecnologia e Gestão, Instituto Politécnico do Porto.
 <br/>
 <br/>
 
@@ -23,7 +23,7 @@ Hello, my name is Hugo Silva, and I am a software engineer. I obtained my bachel
 <br/>
 
 ### Software and Tools:
-[![Software and Tools](https://skillicons.dev/icons?i=gitlab,github,eclipse,vscode,docker,idea,kubernetes,postman)](#)
+[![Software and Tools](https://skillicons.dev/icons?i=gitlab,github,eclipse,vscode,idea,docker,kubernetes,postman)](#)
 <br/>
 
 <br/>
