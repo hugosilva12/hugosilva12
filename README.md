@@ -1,5 +1,5 @@
 
-# **About Me** 👀
+# **About Me** 👨‍🦱
 Hello, my name is Hugo Silva, and I am a software engineer. I obtained my bachelor's degree in Computer Engineering at ESTG - Escola Superior de Tecnologia e Gestão, Instituto Politécnico do Porto.
 
 <br>
@@ -47,9 +47,15 @@ Hello, my name is Hugo Silva, and I am a software engineer. I obtained my bachel
 
 <br>
 
-# Languages 💬
-- English - Intermediate;
-- Portuguese - Native.
+
+#  Contact me 🤙
+
+<p>
+<div align="center">
+  <a href="mailto:hugodanielsilva12@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="hugodanielsilva12" /></a>
+    <a href="https://linkedin.com/in/hugo-silva-089181206" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hugo-silva-089181206" /></a>
+</div>
+</p>
 
 
 <!--
