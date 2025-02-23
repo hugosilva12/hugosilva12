@@ -1,6 +1,8 @@
 
 # About me 👨‍🦱
-### Hello, my name is Hugo Silva, and I am a software engineer. I obtained my bachelor's degree in Computer Engineering at ESTG - Escola Superior de Tecnologia e Gestão, Instituto Politécnico do Porto.
+### Hello everyone!
+
+### I have a Bachelor's and a Master's degree in Computer Engineering from ESTG-IPP. I'm passionate about creating innovative solutions and exploring new opportunities to expand my skills. I'm always focused on learning, evolving and facing challenges that allow me to contribute to impactful projects.
 <br/>
 <br/>
 
